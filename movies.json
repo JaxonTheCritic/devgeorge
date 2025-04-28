@@ -1,14 +1,50 @@
 [
   {
-    "date": "2025-04-20",
-    "title": "Interstellar",
-    "rating": "9",
-    "description": "Epic space odyssey with deep emotional stakes."
+    "date": "2025-04-03",
+    "title": "Patlabor 2: The Movie",
+    "rating": "10",
+    "description": "Quite possibly the best animated film next to End of Evangelion."
   },
   {
-    "date": "2025-04-21",
-    "title": "Everything Everywhere All At Once",
-    "rating": "10",
-    "description": "Mind-bending and heartfelt multiverse madness."
+    "date": "2025-04-04",
+    "title": "Men",
+    "rating": "8",
+    "description": "The scariest thing about this movie is reading the reviews."
+  },
+    {
+    "date": "2025-04-05",
+    "title": "World of Tommorow",
+    "rating": "8",
+    "description": "Yeah it's good but it could match the director's previous work."
+  },
+    {
+    "date": "2025-04-06",
+    "title": "Alien",
+    "rating": "8",
+    "description": "I like the atmosphere alot but some characters make some really dumb descisions."
+  },
+    {
+    "date": "2025-04-06",
+    "title": "Alien:Romulus",
+    "rating": "3",
+    "description": "First movie in a while that made me actually angry. At least the sets looked nice and the acting was good."
+  },
+    {
+    "date": "2025-04-10",
+    "title": "Star Trek 2: Wrath of Khan",
+    "rating": "8",
+    "description": "It's a good movie but it just doesn't scream Star Trek to me."
+  },
+    {
+    "date": "2025-04-04",
+    "title": "The Day The Earth Blew Up",
+    "rating": "7",
+    "description": "Best theatrical animated comedy I've seen in quite a bit."
+  },
+    {
+    "date": "2025-04-04",
+    "title": "Men",
+    "rating": "8",
+    "description": "The scariest thing about this movie is reading the reviews."
   }
 ]
